@@ -163,8 +163,168 @@ body{
     </div>
 
     <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/rosella.jpg">
+        <div class="overlay">Rosella</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/pisang.jpg">
+        <div class="overlay">Pisang</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/daunkelor.jpg">
+        <div class="overlay">Daun Kelor</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/bambu.jpg">
+        <div class="overlay">Bambu</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/anggrek.jpg">
+        <div class="overlay">Anggrek</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/kelapa.jpg">
+        <div class="overlay">Kelapa</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/palem.jpg">
+        <div class="overlay">palem</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/kaktus.jpg">
+        <div class="overlay">kaktus</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/temulawak.jpg">
+        <div class="overlay">Temulawak</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/kayumanis.jpg">
+        <div class="overlay">Kayu Manis</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/daunsirih.jpg">
+        <div class="overlay">Daun Sirih</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/kumiskucing.jpg">
+        <div class="overlay">Kumis Kucing</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/lavender.jpg">
+        <div class="overlay">Lavender</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/serai.jpg">
+        <div class="overlay">Serai</div>
+    </div>
+
+        <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/semangka.jpg">
+        <div class="overlay">Semangka</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/strowbery.jpg">
+        <div class="overlay">Strowbery</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
         <img src="image/lidahbuaya.jpg">
         <div class="overlay">Lidah Buaya</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/pegagan.jpg">
+        <div class="overlay">Pegagan</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/nanas.jpg">
+        <div class="overlay">Nanas</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/pir.jpg">
+        <div class="overlay">Pir</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/melon.jpg">
+        <div class="overlay">Melon</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/apel.jpg">
+        <div class="overlay">Apel</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/mengkudu.jpg">
+        <div class="overlay">Mengkudu</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/duren.jpg">
+        <div class="overlay">Duren</div>
+    </div>
+
+    <div class="gallery-item buah" onclick="openImg(this)">
+        <img src="image/manggis.jpg">
+        <div class="overlay">Manggis</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/heliconia.jpg">
+        <div class="overlay">Heliconia</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/alocasia.jpg">
+        <div class="overlay">Alocasia</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/calathea.jpg">
+        <div class="overlay">Calathea</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/tulip.jpg">
+        <div class="overlay">Tulip</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/ginseng.jpg">
+        <div class="overlay">Ginseng</div>
+    </div>
+
+        <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/heliconia.jpg">
+        <div class="overlay">Heliconia</div>
+    </div>
+
+    <div class="gallery-item hias" onclick="openImg(this)">
+        <img src="image/anthurium.jpg">
+        <div class="overlay">Anthurium</div>
+    </div>
+
+    <div class="gallery-item obat" onclick="openImg(this)">
+        <img src="image/rosella.jpg">
+        <div class="overlay">Rosella</div>
     </div>
 
     <div class="gallery-item buah" onclick="openImg(this)">
